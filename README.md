@@ -20,7 +20,7 @@ The gaming industry produces thousands of titles every year, but only a few succ
 
 Goal: Use data-driven evidence to help publishers and developers make informed decisions on future releases, marketing strategies, and platform targeting.
 
-## ✅ Methodology (3 Steps)
+## ✅ Methodology
 
 1. **Data Cleaning & Transformation** – Handled missing values, merged columns (Title/Name, Genre/Genres), created a unified `Game_Title` field; performed unpivoting for regional sales breakdown.
 2. **Exploratory Data Analysis (EDA)** – Used Power BI dashboards to analyze ratings distribution, wishlist trends, sales by region, best-selling platforms, and publisher performance.
